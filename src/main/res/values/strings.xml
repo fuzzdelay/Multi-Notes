@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="file_name">Notes.json</string>
+    <string name="encoding">UTF-8</string>
+    <string name="saved">Note Saved!</string>
+    <string name="no_file_found">No JSON Product File Present</string>
+    <string name="no_note">Cannot save note without a title.</string>
+
+</resources>
